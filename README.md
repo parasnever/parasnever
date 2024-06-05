@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/paras shrestha" target="blank"><img src="https://img.shields.io/twitter/follow/paras shrestha?logo=twitter&style=for-the-badge" alt="paras shrestha" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React,Next-Js**
 
-- 💬 Ask me about **React,JavaScript**
+- 💬 Ask me about **React,JavaScript,Python,Next-Js,**
 
 - 📫 How to reach me **parasshresthanever@gmail.com**
 
